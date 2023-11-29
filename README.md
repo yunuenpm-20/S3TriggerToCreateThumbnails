@@ -8,3 +8,5 @@ The lambda__function.zip is the file where you can find the complete package tha
 
 
 And the package.zip only includes the necessary dependencies.
+
+Reference: https://docs.aws.amazon.com/lambda/latest/dg/with-s3-tutorial.html
